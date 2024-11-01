@@ -5,12 +5,18 @@
 **Dashboard 1: Summary Dashboard**
 
 Here having total 6 Key Performance Indicators (KPIs)
-**Total Country: 21
+Total Country: 21
+
 Total Gross Revenue: $1M
+
 Average Discount: 5.62%
+
 Total Orders: 2,155
+
 Average Shipping Price: 26
-Average Shipping Day: 8**
+
+Average Shipping Day: 8
+
 
 
 **VISUAL ANALYSIS**
@@ -28,11 +34,13 @@ Average Shipping Day: 8**
 **6.Gross Revenue by City:** A tree map showcases gross revenue distribution by city, identifying Cunewalde and Boise as significant contributors with revenues of $117K and $116K, respectively. This visualization enables a more granular view of city-level performance.
 
 
+
 **Section 2: Forecasting and Anomaly Detection Dashboard**
 
 **1.Net Revenue by Order Date - Forecasting:** This line chart shows the time series data of net revenue, along with a forecasting model. The shaded area represents predicted revenue trends, providing a glimpse into expected performance based on historical data. This forecast can assist in planning future sales and budget allocation.
 
 **2.Net Revenue by Order Date - Anomaly Detection:** The second line chart highlights unusual spikes or drops in net revenue over time. Anomalies are marked with indicators, helping to identify outliers, such as unexpected surges or declines. These anomalies might point to events like promotions, market disruptions, or seasonal effects.
+
 
 
 **INSIGHTS**
